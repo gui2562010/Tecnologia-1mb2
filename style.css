@@ -35,7 +35,9 @@ a{
 }
 
 ol{
-    list-style-type: square;
+    list-style: circle;
+    color: #d31717;
+    
 
 
 
@@ -44,7 +46,7 @@ ol{
 
 li{
 color: #e02828;
-text-align:left
+text-align:center
 
 
 }
@@ -52,10 +54,25 @@ text-align:left
 img{
 
 
-margin:20px auto;
+margin:60px auto;
+height:center ;
+width: 14%;
+
 
  
  
+
+
+
+
+
+}
+
+h2{
+    color: rgb(211, 47, 47);
+    text-shadow: 0px 0px 10px #e02828;
+
+
 
 
 
